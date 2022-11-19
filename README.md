@@ -7,7 +7,7 @@
 - 💬 Ask me about How to get a FREE Commercial Website and FREE domain...
 - 📫 How to reach me: Message TheGhost on our website https://www.php-nuke-titanium.86it.us 
 - 😄 I'm looking for NEW people to help me develop PHP-Nuke Titanium...
-- ⚡ PHP-Nuke Titanium has been around amd maintained for more than 25 years!
+- ⚡ PHP-Nuke Titanium has been around and maintained for more than 25 years!
 
 <!--
 **ernestbuffington/ernestbuffington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
