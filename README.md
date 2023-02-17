@@ -2,13 +2,13 @@
 
 - 🕵️‍♂️ I’m the founder of the CodersExchange / 86it Developers Network
 - 🔹 I’m currently adding new projects for coders to the CodersExchange Network.
-- 
+ 
 - 🔥 We welcome YaWK.io https://yawk.io This app is awesome and on FIRE!  
 - 🏛 Yet another WebKit CMS to the CoderExchange. https://yawk.coders.exchange
--    
+    
 - 🔥 We welcome phpMyFAQ https://www.phpmyfaq.de This app is awesome and on FIRE!  
 - 🏛  A FAQ web application to the CoderExchange. https://phpmyfaq.coders.exchange
--     
+     
 - 📫 How to reach me: e-mail Ernest Allen Buffington ernest.buffington@gmail.com  
 - 👨‍🦯 I'm currently looking for NEW projects/people/developers to add to the CodersExchange...
 
