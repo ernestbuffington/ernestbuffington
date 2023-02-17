@@ -1,18 +1,18 @@
 ### Hi there I'm Ernest Allen Buffington aka TheGhost👋
 
-- 🕵️‍♂️ I’m the founder of the CodersExchange / 86it Developers Network
-- 🔹 I’m currently adding new projects for coders to the CodersExchange Network.<br/>
+ 🕵️‍♂️ I’m the founder of the CodersExchange / 86it Developers Network<br/>
+ 🔹 I’m currently adding new projects for coders to the CodersExchange Network.<br/>
  <br/>
-- 🔥 YaWK.io https://yawk.io This app is awesome and on FIRE!<br/>  
-- 🏛 Welcome to the CoderExchange Network. https://yawk.coders.exchange<br/>
+ 🔥 YaWK.io https://yawk.io This app is awesome and on FIRE!<br/>  
+ 🏛 Welcome to the CoderExchange Network. https://yawk.coders.exchange<br/>
 <br/>    
-- 🔥 We welcome phpMyFAQ https://www.phpmyfaq.de This app is awesome and on FIRE!<br/>  
-- 🏛  Welcome to the CoderExchange Network. https://phpmyfaq.coders.exchange<br/>
+ 🔥 We welcome phpMyFAQ https://www.phpmyfaq.de This app is awesome and on FIRE!<br/>  
+ 🏛  Welcome to the CoderExchange Network. https://phpmyfaq.coders.exchange<br/>
 <br/>     
-- 📫 How to reach me: e-mail Ernest Allen Buffington ernest.buffington@gmail.com<br/>  
-- 👨‍🦯 I'm currently looking for NEW projects/people/developers to add to the CodersExchange...<br/>
+ 📫 How to reach me: e-mail Ernest Allen Buffington ernest.buffington@gmail.com<br/>  
+ 👨‍🦯 I'm currently looking for NEW projects/people/developers to add to the CodersExchange...<br/>
 <br/>
-- 🔸 IF YOU THINK YOUR PROJECT IS GOOD ENOUGH TO BE LISTED ON THE CodersExchange PLEASE SEND ME A REQUEST!<br/>
+ 🔸 IF YOU THINK YOUR PROJECT IS GOOD ENOUGH TO BE LISTED ON THE CodersExchange PLEASE SEND ME A REQUEST!<br/>
 
 <!--
 **ernestbuffington/ernestbuffington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
