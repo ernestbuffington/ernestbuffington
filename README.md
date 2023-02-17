@@ -1,13 +1,12 @@
 ### Hi there I'm Ernest Allen Buffington aka TheGhost👋
 
-- 🔭 I’m currently working on PHP-Nuke Titanium v4.0.4 PreRelease
-- 🌱 I’m currently learning Python and Rust...
-- 👯 I’m looking to collaborate on Website Setup for NEW PHP-Nuke Titanium Developers...
-- 🤔 I’m looking for help with Scheduling Meets for our Developers...
-- 💬 Ask me about How to get a FREE Commercial Website and FREE domain...
-- 📫 How to reach me: Message TheGhost on our website https://www.php-nuke-titanium.86it.us 
-- 😄 I'm looking for NEW people/developers to help us develop PHP-Nuke Titanium...
-- ⚡ PHP-Nuke Titanium has been around and maintained for more than 23 years!
+- 🔭 I’m the founder of the CodersExchange / 86it Developers Network
+- 🌱 I’m currently adding new projects for coders to the CodersExchange Network.
+- 💬 We welcome YaWK.io https://yawk.io/ - Yet another WebKit CMS to the CoderExchange. https://yawk.coders.exchange
+- 💬 We welcome phpMyFAQ https://www.phpmyfaq.de - A FAQ web app for PHP 7 and PHP 8 to the CoderExchange. https://phpmyfaq.coders.exchange
+- 📫 How to reach me: e-mail Ernest Allen Buffington ernest.buffington@gmail.com  
+- 😄 I'm looking for NEW projects/people/developers to add to the CodersExchange...
+- ⚡ IF YOU THINK YOUR PROJECT SHOULD BE LISTED ON THE CodersExchange PLEASE SEND ME A REQUEST!
 
 <!--
 **ernestbuffington/ernestbuffington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
