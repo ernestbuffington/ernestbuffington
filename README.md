@@ -3,7 +3,7 @@
  🕵️‍♂️ I’m the founder of the CodersExchange / 86it Developers Network<br/>
  🔹 I’m currently adding new projects for coders to the CodersExchange Network.<br/>
  <br/>
- 🔥 YaWK.io https://yawk.io This app is awesome and on FIRE!<br/>  
+ 🔥 YaWK.io https://yawk.io This app is awesome and on FIRE!  
  🏛 Welcome to the CoderExchange Network. https://yawk.coders.exchange<br/>
 <br/>    
  🔥 We welcome phpMyFAQ https://www.phpmyfaq.de This app is awesome and on FIRE!<br/>  
