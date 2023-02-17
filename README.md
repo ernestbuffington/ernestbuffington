@@ -9,10 +9,10 @@
  🔥 We welcome phpMyFAQ https://www.phpmyfaq.de This app is awesome and on FIRE!  
  🏛  Welcome to the CoderExchange Network. https://phpmyfaq.coders.exchange<br/>
      
- 📫 How to reach me: e-mail Ernest Allen Buffington ernest.buffington@gmail.com<br/>  
+ 📫 How to reach me: e-mail Ernest Allen Buffington ernest.buffington@gmail.com  
  👨‍🦯 I'm currently looking for NEW projects/people/developers to add to the CodersExchange...<br/>
 
- 🔸 IF YOU THINK YOUR PROJECT IS GOOD ENOUGH TO BE LISTED ON THE CodersExchange PLEASE SEND ME A REQUEST!<br/>
+ 🔸 IF YOU THINK YOUR PROJECT IS GOOD ENOUGH TO BE LISTED ON THE CodersExchange PLEASE SEND ME A REQUEST!
 
 <!--
 **ernestbuffington/ernestbuffington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
