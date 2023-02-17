@@ -6,11 +6,11 @@
  🔥 YaWK.io https://yawk.io This app is awesome and on FIRE!  
  🏛 Welcome to the CoderExchange Network. https://yawk.coders.exchange<br/>
     
- 🔥 We welcome phpMyFAQ https://www.phpmyfaq.de This app is awesome and on FIRE!  
- 🏛  Welcome to the CoderExchange Network. https://phpmyfaq.coders.exchange<br/>
+ 🔥 phpMyFAQ https://www.phpmyfaq.de This app is awesome and on FIRE!  
+ 🏛 Welcome to the CoderExchange Network. https://phpmyfaq.coders.exchange<br/>
  
- 🔥 We welcome PHP-Nuke Titanium - This app is awesome and on FIRE!  
- 🏛  Welcome to the 86it Developers Network. https://www.php-nuke-titanium.86it.us<br/>
+ 🔥 PHP-Nuke Titanium - This app is awesome and on FIRE!  
+ 🏛 Welcome to the 86it Developers Network. https://www.php-nuke-titanium.86it.us<br/>
      
  📫 How to reach me: e-mail Ernest Allen Buffington ernest.buffington@gmail.com  
  👨‍🦯 I'm currently looking for NEW projects/people/developers to add to the CodersExchange...<br/>
