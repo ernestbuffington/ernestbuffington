@@ -3,6 +3,9 @@
  🕵️‍♂️ I’m the founder of the CodersExchange / 86it Developers Network<br/>
  🔹 I’m currently adding new projects for coders to the CodersExchange Network.<br/>
  
+ 🔥 PHP-Nuke (Official) https://phpnuke.coders.exchange This app is awesome and on FIRE!  
+ 🏛 Welcome to the CoderExchange Network. https://phpnuke.coders.exchange<br/>
+
  🔥 CPG Dragonfly™ https://dragonfly.coders.exchange This app is awesome and on FIRE!  
  🏛 Welcome to the CoderExchange Network. https://dragonfly.coders.exchange<br/>
 
